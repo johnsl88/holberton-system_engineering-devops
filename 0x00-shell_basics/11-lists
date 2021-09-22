@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /home/vagrant/shell_test/holberton-system_engineering-devops/ /boot/
+ls -a -l /home/vagrant/shell_test/holberton-system_engineering-devops/ /boot/
