@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -l /holberton-system_engineering-devops/ ls -a -l /boot/
+ls -a /holberton-system_engineering-devops/ ls -l /boot/
