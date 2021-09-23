@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x
+find ./0-01-shell_permissions -type d -exec chmod 755
