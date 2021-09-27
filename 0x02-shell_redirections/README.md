@@ -1,1 +1,1 @@
-**New README for 0x02-shell_redirections**
+**First thing""
