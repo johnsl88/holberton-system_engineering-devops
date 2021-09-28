@@ -1,0 +1,39 @@
+total 100
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 28 00:23 #11-directories#
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 22:40 *\'Best School'\*$?*****:)
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 22:43 *\'Best School'\*$?\*\*\*\*\*:)
+drwxrwxr-x 2 vagrant vagrant 4096 Sep 28 14:49 .
+drwxrwxr-x 7 vagrant vagrant 4096 Sep 27 19:28 ..
+-rwxrwxr-x 1 vagrant vagrant   32 Sep 27 20:22 0-Hello_World
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 19:09 0-Hello_World~
+-rwxrwxr-x 1 vagrant vagrant   28 Sep 27 20:53 1-confused_smiley
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 19:13 1-confused_smiley~
+-rwxrwxr-x 1 vagrant vagrant   48 Sep 28 00:16 10-no_more_js
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 28 00:15 10-no_more_js~
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 28 00:22 11-directories
+-rwxrwxr-x 1 vagrant vagrant   28 Sep 27 20:00 2-hellofile
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 19:17 2-hellofile~
+-rwxrwxr-x 1 vagrant vagrant   39 Sep 27 21:08 3-twofiles
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 21:07 3-twofiles~
+-rwxrw-r-- 1 vagrant vagrant   29 Sep 27 21:12 4-lastlines
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 21:11 4-lastlines~
+-rwxrw-r-- 1 vagrant vagrant   29 Sep 27 21:14 5-firstlines
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 21:13 5-firstlines~
+-rwxrw-r-- 1 vagrant vagrant   40 Sep 27 22:20 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   23 Sep 27 21:35 6-third_line~
+-rwxrw-r-- 1 vagrant vagrant   85 Sep 27 23:32 7-file
+-rwxrw-r-- 1 vagrant vagrant   85 Sep 27 23:04 7-file~
+-rwxrw-r-- 1 vagrant vagrant   36 Sep 28 14:49 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   47 Sep 27 23:44 8-cwd_state~
+-rw-rw-r-- 1 vagrant vagrant   29 Sep 28 14:38 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 28 13:59 9-duplicate_last_line~
+-rw-rw-r-- 1 vagrant vagrant   15 Sep 27 19:09 README.md
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 23:07 \*\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 23:32 \*\'Best School\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 23:24 \*\'Best School\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   12 Sep 27 23:29 \*\'Best School\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   30 Sep 27 23:59 grep
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 21:52 head
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 27 22:00 iacta
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 28 00:04 ls
+-rw-rw-r-- 1 vagrant vagrant    0 Sep 28 14:49 ls_cwd_content
